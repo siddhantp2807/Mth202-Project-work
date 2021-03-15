@@ -13,7 +13,7 @@ Mth202 Simulation and Visualization
 9. newDist/ - P(X = k) vs k plot alongwith power law curve fitting of the same  
 10. powerCurve/ - Power curve fitting of X vs r plot  
   
-##Files
+## Files
 1. another.py - Playground file to experiment out code  
 2. createData.py - Run simulation and write simulation data to newData.json  
 3. newReader.py - Tried out Binomial Distribution curve fitting, failed miserably :(  
